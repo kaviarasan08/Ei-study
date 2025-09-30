@@ -1,0 +1,14 @@
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\bin\Debug\net9.0\VirtualClassRoomManager01.exe
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\bin\Debug\net9.0\VirtualClassRoomManager01.deps.json
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\bin\Debug\net9.0\VirtualClassRoomManager01.runtimeconfig.json
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\bin\Debug\net9.0\VirtualClassRoomManager01.dll
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\bin\Debug\net9.0\VirtualClassRoomManager01.pdb
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\VirtualClassRoomManager01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\VirtualClassRoomManager01.AssemblyInfoInputs.cache
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\VirtualClassRoomManager01.AssemblyInfo.cs
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\VirtualClassRoomManager01.csproj.CoreCompileInputs.cache
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\VirtualClassRoomManager01.dll
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\refint\VirtualClassRoomManager01.dll
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\VirtualClassRoomManager01.pdb
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\VirtualClassRoomManager01.genruntimeconfig.cache
+D:\Users\KAVIARASAN\source\repos\VirtualClassRoomManager01\obj\Debug\net9.0\ref\VirtualClassRoomManager01.dll
